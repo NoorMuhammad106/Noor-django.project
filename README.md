@@ -1,1 +1,1 @@
-# Noor-django.project
+#-django.project
